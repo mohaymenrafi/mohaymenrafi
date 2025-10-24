@@ -7,8 +7,8 @@ Frontend Developer
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mohaymen.rafi@gmail.com](mailto:mohaymen.rafi@gmail.com)
 * 🖥️  See my portfolio at [Here](http://mhabdullah.vercel.app/)
-* 🚀  I'm currently working on Full Stack E-commerce site
-* 🧠  I'm learning GraphQL & Styled Component Themeing
+* 🚀  I'm currently building talent recruiting AI platform
+* 🧠  I'm learning full-stack development & regular leetcode for algorithms
 * 🤝  I'm open to collaborating on Open source projects that helps greater cause
 
 ### Skills
